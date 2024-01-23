@@ -1,0 +1,2 @@
+# ARICH
+ School project
