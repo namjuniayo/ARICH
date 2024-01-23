@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" modified="2024-01-23T22:22:41.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="XHrRHjGAgBJOxmkXAW4D" version="21.3.6" type="device">
+  <diagram name="Страница 1" id="Q98TY_hMGa4s6bbp-YtO">
+    <mxGraphModel dx="3649" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xFsd1DAyc4xoue16BbFm-132" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="530" width="1500" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-1" value="Виды модели" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-4" value="1. Кости&lt;br&gt;2.Ткани&lt;br&gt;3. Органы&lt;br&gt;4.Мышцы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="550" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-17" value="2.Ткани&lt;br&gt;3. Органы&lt;br&gt;4.Мышцы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-18" value="1. Кости&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3. Органы&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4.Мышцы&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-19" value="1. Кости&lt;br&gt;2.Ткани&lt;br&gt;4.Мышцы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-20" value="1. Кости&lt;br&gt;2.Ткани&lt;br&gt;3. Органы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-21" value="1. Кости&lt;br&gt;2.Ткани&lt;br&gt;3. Органы&lt;br&gt;4.Мышцы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-22" value="3. Органы&lt;br&gt;4.Мышцы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="880" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-23" value="2.Ткани&lt;br&gt;4.Мышцы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1000" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-24" value="2.Ткани&lt;br&gt;3. Органы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1120" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-25" value="2.Ткани&lt;br&gt;3. Органы&lt;br&gt;4.Мышцы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1240" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-28" value="1. Кости&lt;br&gt;4.Мышцы&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1000" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-29" value="1. Кости&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3. Органы&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1120" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-30" value="1. Кости&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3. Органы&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4.Мышцы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1240" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-32" value="2.Ткани&lt;br&gt;4.Мышцы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="880" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-34" value="1. Кости&lt;br&gt;2.Ткани&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1120" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-35" value="1. Кости&lt;br&gt;2.Ткани&lt;br&gt;4.Мышцы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1240" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-38" value="2.Ткани&lt;br&gt;3. Органы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="880" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-39" value="1. Кости&lt;br&gt;3. Органы&lt;br&gt;5. Нервная система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1000" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-41" value="1. Кости&lt;br&gt;2.Ткани&lt;br&gt;3. Органы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1240" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-43" value="2.Ткани&lt;br&gt;3. Органы&lt;br&gt;4.Мышцы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="880" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-44" value="1. Кости&lt;br&gt;3. Органы&lt;br&gt;4.Мышцы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1000" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-45" value="1. Кости&lt;br&gt;2.Ткани&lt;br&gt;4.Мышцы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1120" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-113" value="12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-115" value="13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-116" value="14" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-117" value="15" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-118" value="23" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="870" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-119" value="24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="870" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-120" value="25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="870" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-121" value="34" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="980" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-122" value="35" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="980" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-123" value="45" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="1090" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-124" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="870" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-125" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="980" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-126" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="980" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-127" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1090" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-128" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-403" y="1090" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-133" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xFsd1DAyc4xoue16BbFm-1" target="xFsd1DAyc4xoue16BbFm-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="400" as="sourcePoint" />
+            <mxPoint x="-90" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-134" value="Функция переключения вида модели" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xFsd1DAyc4xoue16BbFm-135" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xFsd1DAyc4xoue16BbFm-1" target="xFsd1DAyc4xoue16BbFm-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="400" as="sourcePoint" />
+            <mxPoint x="-90" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
